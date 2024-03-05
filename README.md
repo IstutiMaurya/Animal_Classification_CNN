@@ -27,7 +27,8 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/animal-classification-project.git
+git clone https://github.com/IstutiMaurya/Animal_Classification_CNN.git
+
 Install the required dependencies:
 
 ## Copy code
